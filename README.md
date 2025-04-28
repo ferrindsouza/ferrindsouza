@@ -10,7 +10,9 @@ I'm a Cloud & DevOps enthusiast passionate about automation, AWS and scripting.<
 ### 📂 Mini Projects
 - 🛡️ [SYN Flood Attack Detection & Mitigation](https://github.com/ferrindsouza/SYN_Flood_Detection)<br/>  
 - 🤖 [AWS Automation with Shell Scripting](https://github.com/ferrindsouza/Shell-Scripting-for-AWS) <br/> 
-- 🐳 [A simple exercise to demonstrate the application of containerization on AWS](https://github.com/ferrindsouza/nginx-web-app)<br/><br/>
+- 🐳 [A simple exercise to demonstrate the application of containerization on AWS](https://github.com/ferrindsouza/nginx-web-app)<br/>
+- ![image](https://github.com/user-attachments/assets/00ce7815-c50d-4546-b529-fb5fbc04c67d)
+
 
 
 ### 🌐 Socials:
