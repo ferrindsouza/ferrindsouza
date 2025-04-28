@@ -7,13 +7,11 @@ I'm a Cloud & DevOps enthusiast passionate about automation, AWS and scripting.<
 - 🤔 I’m looking for employment as a Cloud Engineer as well as suggestions on how I can traverse the Cloud as it is a bit overwhelming.<br/>
 - 📫 How to reach me: Linkedin is your best spot my handle is [ferrindsouza](https://www.linkedin.com/in/ferrindsouza)<br/><br/>
 
-### 📂 Mini Projects
+### 📂 Mini Projects:
 - 🛡️ [SYN Flood Attack Detection & Mitigation](https://github.com/ferrindsouza/SYN_Flood_Detection)<br/>  
 - 🤖 [AWS Automation with Shell Scripting](https://github.com/ferrindsouza/Shell-Scripting-for-AWS) <br/> 
 - 🐳 [A simple exercise to demonstrate the application of containerization on AWS](https://github.com/ferrindsouza/nginx-web-app)<br/>
-- ![image](https://github.com/user-attachments/assets/00ce7815-c50d-4546-b529-fb5fbc04c67d)
-
-
+- 💻 [AWS PartyRock Task Scheduler](https://github.com/ferrindsouza/PartyRock_TaskScheduler)<br/><br/>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferrindsouza) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ferrindsouza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferrindsouza@gmail.com) <br/><br/>
