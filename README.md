@@ -36,6 +36,9 @@ I'm a Cloud & DevOps enthusiast passionate about automation, AWS and scripting.<
   <a href="https://www.credly.com/badges/fca7dc38-2d36-460c-8223-2cbf841f2748/public_url">
     <img src="https://images.credly.com/size/680x680/images/0f467dff-9212-4684-9f74-44da8879e625/MTA-Introduction_to_Programming_Using_Python.png" width="150" height="150" alt="MTA-Introduction to Programming Using Python by Microsoft"/>
   </a>
+<a href="https://www.credly.com/badges/c6ad1d79-4c25-44cf-8231-cd309654225b/public_url">
+    <img src="https://images.credly.com/size/220x220/images/52fa067b-fd7b-4083-bd36-b554cd134773/image.png" width="150" height="150" alt="AWS General Immersion Day Participant"/>
+  </a>
 </p>
 <br/><br/>
 
