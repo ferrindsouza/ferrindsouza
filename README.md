@@ -1,8 +1,9 @@
 ## Hi there, I'm Ferrin Dsouza 👋<br>
-I'm a Cloud & DevOps enthusiast passionate about automation, AWS and scripting.<br/><br/>
+I'm an AWS Certified Cloud Practitioner and a Cloud & DevOps enthusiast passionate about automation, AWS and scripting.<br/><br/>
 
 - 🎓 MSc Cybersecurity from Robert Gordon University, Scotland & B.E Software Engineering from Visveswaraya Technological University<br/>
 - 🔭 I’m currently working on AWS Certified Solutions Architect SAA-C03 <br/>
+- 🥇 Meanwhile passed the AWS Cloud Practioner Certification. <br/>
 - 🌱 I’m learning Storage in AWS and scripting in Python in order to learn automation in AWS and all the basics<br/>
 - 🤔 I’m looking for employment as a Cloud Engineer as well as suggestions on how I can traverse the Cloud as it is a bit overwhelming.<br/>
 - 📫 How to reach me: Linkedin is your best spot my handle is [ferrindsouza](https://www.linkedin.com/in/ferrindsouza)<br/><br/>
@@ -21,6 +22,9 @@ I'm a Cloud & DevOps enthusiast passionate about automation, AWS and scripting.<
 
 ### 🏅 Badges
 <p align="center">
+  <a href="https://www.credly.com/badges/d871030e-827c-4626-946d-6a5cbc340e93/public_url">
+    <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" height="150" alt="AWS Certified Cloud Practitioner"/>
+  </a>
   <a href="https://www.credly.com/badges/c2beda0f-943f-4743-ba95-54282f663398/public_url">
     <img src="https://images.credly.com/size/680x680/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" width="150" height="150" alt="AWS Educate Networking"/>
   </a>
