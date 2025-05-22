@@ -2,11 +2,11 @@
 I'm an AWS Certified Cloud Practitioner and a Cloud & DevOps enthusiast passionate about automation, AWS and scripting.<br/><br/>
 
 - 🎓 MSc Cybersecurity from Robert Gordon University, Scotland & B.E Software Engineering from Visveswaraya Technological University<br/>
+- 🥇 Certified by Amazon Web Services as a AWS Cloud Practioner. <br/>
 - 🔭 I’m currently working on AWS Certified Solutions Architect SAA-C03 <br/>
-- 🥇 Meanwhile passed the AWS Cloud Practioner Certification. <br/>
-- 🌱 I’m learning Storage in AWS and scripting in Python in order to learn automation in AWS and all the basics<br/>
-- 🤔 I’m looking for employment as a Cloud Engineer as well as suggestions on how I can traverse the Cloud as it is a bit overwhelming.<br/>
-- 📫 How to reach me: Linkedin is your best spot my handle is [ferrindsouza](https://www.linkedin.com/in/ferrindsouza)<br/><br/>
+- 🌱 I’m complementing my learning by studying scripting in Python in order to learn automation in AWS. <br/>
+- 🤔 I’m looking for employment as a Cloud Engineer as well as suggestions on how I can traverse the Cloud.<br/>
+- 📫 How to reach me: Linkedin is your best chance my handle is [ferrindsouza](https://www.linkedin.com/in/ferrindsouza)<br/><br/>
 
 ### 📂 Mini Projects:
 - 🛡️ [SYN Flood Attack Detection & Mitigation](https://github.com/ferrindsouza/SYN_Flood_Detection)<br/>  
