@@ -10,10 +10,28 @@ I'm an AWS Certified Cloud Practitioner and a Cloud & DevOps enthusiast passiona
 
 ## 📦 Projects
 
-### 🧪 Major Projects
+### 🧪 Major Projects (MSc + Cloud Based)
+
+👩‍💻 [Cloud Resume Challenge]() <br>
+*A comprehensive application of various Cloud application within the AWS Cloud to create an online resume for the role of Cloud Engineer*
 
 🛡️ [SYN Flood Attack Detection & Mitigation](https://github.com/ferrindsouza/SYN_Flood_Detection)<br/>
 *A MSc network security project to detect and mitigate SYN flood attacks using packet analysis and ML.*
+
+*Note: More projects to be added here soon*
+
+### 📂 Mini Projects:
+   
+- 🤖 [AWS Automation with Shell Scripting](https://github.com/ferrindsouza/Shell-Scripting-for-AWS)
+  *Shell scripts to learn how to automate AWS EC2 instance creation, volume attachment, and status monitoring.*
+   
+- 🐳 [A simple exercise to demonstrate the application of containerization on AWS](https://github.com/ferrindsouza/nginx-web-app)
+  *A simple exercise to demonstrate deploying an NGINX containerized app on an AWS EC2 instance.*
+  
+- 💻 [AWS PartyRock Task Scheduler](https://github.com/ferrindsouza/PartyRock_TaskScheduler)
+  *An AI-generated app that helps users manage and prioritize tasks using a productivity matrix.*
+
+*Note: More projects to be added here soon*
   
 ### 📂 Academic / Archived Engineering Projects:
 
@@ -34,17 +52,6 @@ Here are some of my earlier projects from my engineering days that I only recent
 - 🛡️ [**Anti-Burglar Security System**](https://github.com/ferrindsouza/anti-burglar-security-system)  
   *An Arduino-based security project using ultrasonic sensors and password authentication.*
 
-### 📂 Mini Projects:
-   
-- 🤖 [AWS Automation with Shell Scripting](https://github.com/ferrindsouza/Shell-Scripting-for-AWS)
-  *Shell scripts to learn how to automate AWS EC2 instance creation, volume attachment, and status monitoring.*
-   
-- 🐳 [A simple exercise to demonstrate the application of containerization on AWS](https://github.com/ferrindsouza/nginx-web-app)
-  *A simple exercise to demonstrate deploying an NGINX containerized app on an AWS EC2 instance.*
-  
-- 💻 [AWS PartyRock Task Scheduler](https://github.com/ferrindsouza/PartyRock_TaskScheduler)
-  *An AI-generated app that helps users manage and prioritize tasks using a productivity matrix.*
-<br/>
 
 ## 💻 Technical Skills and Accomplishments:
 
@@ -85,7 +92,6 @@ Here are some of my earlier projects from my engineering days that I only recent
 
 ## 🛠️ Currently Working On
 
-- Preparing for **AWS Solutions Architect Associate** certification.
 - Deepening knowledge in **DevOps tools** like Ansible, Docker, and Kubernetes.
 - Documenting my cloud learning journey via GitHub and blogs.
 <br/><br/>
