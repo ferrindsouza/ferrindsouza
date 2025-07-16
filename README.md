@@ -22,14 +22,17 @@ I'm an AWS Certified Cloud Practitioner and a Cloud & DevOps enthusiast passiona
 
 ### 📂 Mini Projects:
    
-- 🤖 [AWS Automation with Shell Scripting](https://github.com/ferrindsouza/Shell-Scripting-for-AWS)
+   🤖 [AWS Automation with Shell Scripting](https://github.com/ferrindsouza/Shell-Scripting-for-AWS)<br>
   *Shell scripts to learn how to automate AWS EC2 instance creation, volume attachment, and status monitoring.*
    
-- 🐳 [A simple exercise to demonstrate the application of containerization on AWS](https://github.com/ferrindsouza/nginx-web-app)
+  🐳 [A simple exercise to demonstrate the application of containerization on AWS](https://github.com/ferrindsouza/nginx-web-app)<br>
   *A simple exercise to demonstrate deploying an NGINX containerized app on an AWS EC2 instance.*
   
-- 💻 [AWS PartyRock Task Scheduler](https://github.com/ferrindsouza/PartyRock_TaskScheduler)
+  💻 [AWS PartyRock Task Scheduler](https://github.com/ferrindsouza/PartyRock_TaskScheduler)<br>
   *An AI-generated app that helps users manage and prioritize tasks using a productivity matrix.*
+  
+  🏗️ [AWS Terraform Project Intro](https://github.com/ferrindsouza/aws-terraform-intro)<br>
+  *Deployed a scalable WordPress app using Terraform on AWS. Automated resource provisioning including EC2, VPC, IAM roles, and S3 using Infrastructure as Code (IaC) principles.*
 
 *Note: More projects to be added here soon*
   
