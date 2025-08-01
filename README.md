@@ -12,7 +12,7 @@ I'm an AWS Certified Cloud Practitioner and a Cloud & DevOps enthusiast passiona
 
 ### 🧪 Major Projects (MSc + Cloud Based)
 
-👩‍💻 [Cloud Resume Challenge]() <br>
+👩‍💻 [Cloud Resume Challenge](https://github.com/ferrindsouza/resume) <br>
 *A comprehensive application of various Cloud application within the AWS Cloud to create an online resume for the role of Cloud Engineer*
 
 🛡️ [SYN Flood Attack Detection & Mitigation](https://github.com/ferrindsouza/SYN_Flood_Detection)<br/>
