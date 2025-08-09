@@ -75,7 +75,9 @@ Here are some of my earlier projects from my engineering days that I only recent
   <a href="https://www.credly.com/badges/a4e06b3d-4d7d-473d-8b47-93888b9fb080/public_url">
     <img src="https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="150" height="150" alt="Google AI Essentials by Coursera"/>
   </a>
-  <a href="https://www.credly.com/badges/e15f3de9-3bd3-4107-a280-8f0f10ddb74c/public_url">
+<a href="https://www.credly.com/badges/d078ddbd-c172-4c4a-a177-14eefe0c56d5/public_url">
+    <img src="https://images.credly.com/size/220x220/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" width="150" height="150" alt="IBM SkillsBuild Artifical Intelligence Fundamentals"/>
+<a href="https://www.credly.com/badges/e15f3de9-3bd3-4107-a280-8f0f10ddb74c/public_url">
     <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="150" height="150" alt="Google Cybersecurity Certificate V2 by Coursera"/>
   </a>
   <a href="https://www.credly.com/badges/fca7dc38-2d36-460c-8223-2cbf841f2748/public_url">
