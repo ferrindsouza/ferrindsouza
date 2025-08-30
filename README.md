@@ -18,7 +18,7 @@ I'm an AWS Certified Cloud Practitioner and a Cloud & DevOps enthusiast passiona
 🛡️ [SYN Flood Attack Detection & Mitigation](https://github.com/ferrindsouza/SYN_Flood_Detection)<br/>
 *A MSc network security project to detect and mitigate SYN flood attacks using packet analysis and ML.*
 
-🌐 [Serverless Disaster Recover Solution](https://github.com/ferrindsouza/project-1-serverless-cross-region-dr)
+🌐 [Serverless Disaster Recover Solution](https://github.com/ferrindsouza/project-1-serverless-cross-region-dr)<br/>
 *This project demonstrates a manual, serverless approach to building a disaster recovery (DR) solution on AWS. It replicates key resources from a primary region to a secondary one, providing a 'pilot light' architecture to ensure business continuity with minimal cost.*
 
 *Note: More projects to be added here soon*
@@ -36,6 +36,9 @@ I'm an AWS Certified Cloud Practitioner and a Cloud & DevOps enthusiast passiona
   
   🏗️ [AWS Terraform Project Intro](https://github.com/ferrindsouza/aws-terraform-intro)<br>
   *Deployed a scalable WordPress app using Terraform on AWS. Automated resource provisioning including EC2, VPC, IAM roles, and S3 using Infrastructure as Code (IaC) principles.*
+
+  👩‍💻 [Azure Web App Intro](https://github.com/ferrindsouza/myazurewebapp)<br>
+  *This is my very first Node.js app, deployed on Azure App Service using the Azure CLI. It’s a simple app that shows a welcome message and about me section styled with CSS.*
 
 *Note: More projects to be added here soon*
   
