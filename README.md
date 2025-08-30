@@ -18,6 +18,9 @@ I'm an AWS Certified Cloud Practitioner and a Cloud & DevOps enthusiast passiona
 🛡️ [SYN Flood Attack Detection & Mitigation](https://github.com/ferrindsouza/SYN_Flood_Detection)<br/>
 *A MSc network security project to detect and mitigate SYN flood attacks using packet analysis and ML.*
 
+🌐 [Serverless Disaster Recover Solution]()
+*This project demonstrates a manual, serverless approach to building a disaster recovery (DR) solution on AWS. It replicates key resources from a primary region to a secondary one, providing a 'pilot light' architecture to ensure business continuity with minimal cost.*
+
 *Note: More projects to be added here soon*
 
 ### 📂 Mini Projects:
