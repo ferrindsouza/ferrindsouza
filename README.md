@@ -28,17 +28,20 @@ I'm an AWS Certified Cloud Practitioner and a Cloud & DevOps enthusiast passiona
    🤖 [AWS Automation with Shell Scripting](https://github.com/ferrindsouza/Shell-Scripting-for-AWS)<br>
   *Shell scripts to learn how to automate AWS EC2 instance creation, volume attachment, and status monitoring.*
    
-  🐳 [A simple exercise to demonstrate the application of containerization on AWS](https://github.com/ferrindsouza/nginx-web-app)<br>
+   🐳 [A simple exercise to demonstrate the application of containerization on AWS](https://github.com/ferrindsouza/nginx-web-app)<br>
   *A simple exercise to demonstrate deploying an NGINX containerized app on an AWS EC2 instance.*
   
-  💻 [AWS PartyRock Task Scheduler](https://github.com/ferrindsouza/PartyRock_TaskScheduler)<br>
+   💻 [AWS PartyRock Task Scheduler](https://github.com/ferrindsouza/PartyRock_TaskScheduler)<br>
   *An AI-generated app that helps users manage and prioritize tasks using a productivity matrix.*
   
-  🏗️ [AWS Terraform Project Intro](https://github.com/ferrindsouza/aws-terraform-intro)<br>
+   🏗️ [AWS Terraform Project Intro](https://github.com/ferrindsouza/aws-terraform-intro)<br>
   *Deployed a scalable WordPress app using Terraform on AWS. Automated resource provisioning including EC2, VPC, IAM roles, and S3 using Infrastructure as Code (IaC) principles.*
 
-  👩‍💻 [Azure Web App Intro](https://github.com/ferrindsouza/myazurewebapp)<br>
+   👩‍💻 [Azure Web App Intro](https://github.com/ferrindsouza/myazurewebapp)<br>
   *This is my very first Node.js app, deployed on Azure App Service using the Azure CLI. It’s a simple app that shows a welcome message and about me section styled with CSS.*
+
+   🐙 [Git Practice on Mini Finance App](https://github.com/ferrindsouza/mini_finance)<br>
+   *An academic exercise as part of Pravin Mishra's DevOps Course where I followed industry-standard Git workflows and collaborate just like real developers do. At the end of this project, I submitted a       Pull Request (PR) to the CloudAdvisory GitHub repository (Pravin Mishra's company), which was reviewed by the team.*
 
 *Note: More projects to be added here soon*
   
