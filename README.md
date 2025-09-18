@@ -43,6 +43,9 @@ I'm an AWS Certified Cloud Practitioner and a Cloud & DevOps enthusiast passiona
    🐙 [Git Practice on Mini Finance App](https://github.com/ferrindsouza/mini_finance)<br>
    *An academic exercise as part of Pravin Mishra's DevOps Course where I followed industry-standard Git workflows and collaborate just like real developers do. At the end of this project, I submitted a       Pull Request (PR) to the CloudAdvisory GitHub repository (Pravin Mishra's company), which was reviewed by the team.*
 
+   ☁️ [AWS CDK Practice with CloudFormation](https://github.com/ferrindsouza/hello-cdk)<br>
+   *Followed an AWS Guided Tutorial to create and deploy a simple application on AWS using the AWS CDK. The application consists of an AWS Lambda function that returns a Hello World! message when invoked. The function will be invoked through a Lambda function URL that serves as a dedicated HTTP(S) endpoint for your Lambda function. Using the CDK CLI to then build the app and synthesize an AWS CloudFormation template and deploy and provision the resources*
+
 *Note: More projects to be added here soon*
   
 ### 📂 Academic / Archived Engineering Projects:
