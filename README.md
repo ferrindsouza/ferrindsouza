@@ -78,12 +78,7 @@ Here are some of my earlier projects from my engineering days that I only recent
   <a href="https://www.credly.com/badges/d871030e-827c-4626-946d-6a5cbc340e93/public_url">
     <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" height="150" alt="AWS Certified Cloud Practitioner"/>
   </a>
-  <a href="https://www.credly.com/badges/c2beda0f-943f-4743-ba95-54282f663398/public_url">
-    <img src="https://images.credly.com/size/680x680/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" width="150" height="150" alt="AWS Educate Networking"/>
-  </a>
-  <a href="https://www.credly.com/badges/f9a15adb-be81-40b4-b945-35be9977ed68/public_url">
-    <img src="https://images.credly.com/size/680x680/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" width="150" height="150" alt="AWS Educate Getting Started with Compute"/>
-  </a>
+  
   <a href="https://www.credly.com/badges/a4e06b3d-4d7d-473d-8b47-93888b9fb080/public_url">
     <img src="https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="150" height="150" alt="Google AI Essentials by Coursera"/>
   </a>
@@ -105,6 +100,7 @@ Here are some of my earlier projects from my engineering days that I only recent
     <img src="https://images.credly.com/size/680x680/images/639acdee-4aa4-4cdc-8c5b-b23df9b68cd7/image.png" width="150" height="150" alt="Amazon Q Developer Immersion Day Participant"/>
 </a>
 </p>
+ <a href="https://www.credly.com/users/ferrin-dsouza">More Badges can be viewed here on my here on my Credly</a>
 <br/>
 
 ## 🛠️ Currently Working On
